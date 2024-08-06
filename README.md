@@ -97,15 +97,15 @@ This application is designed to display a hierarchical structure of departments 
 
 ### Main View
 
-![Rest API](https://drive.google.com/file/d/1x9AokM8DOqbPum15myrp989-OkVfCY0Y/view?usp=sharing)
+![Rest API](https://drive.google.com/uc?export=view&id=1x9AokM8DOqbPum15myrp989-OkVfCY0Y)
 
 ### Expanded Department
 
-![Main view](https://drive.google.com/file/d/1e6IhqV-C2jAF5omJiDyY5RXu1bpe9tzK/view?usp=sharing)
+![Main view](https://drive.google.com/uc?export=view&id=1e6IhqV-C2jAF5omJiDyY5RXu1bpe9tzK)
 
 ### Employee List
 
-![Employee List](https://drive.google.com/file/d/1Nw_75n3UwxfcrV5oqzi4YHpwXPw5Djka/view?usp=sharing)
+![Employee List](https://drive.google.com/uc?export=view&id=1Nw_75n3UwxfcrV5oqzi4YHpwXPw5Djka)
 
 ## Contributing
 
@@ -129,7 +129,3 @@ This application is designed to display a hierarchical structure of departments 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Replace the placeholders with your actual image paths and repository URL. This README provides a comprehensive guide for setting up and running the application, as well as contributing to the project.
